@@ -1,0 +1,4 @@
+SELECT * FROM tweets;
+DELETE FROM tweets
+WHERE id = 12
+SELECT LOWER(first_name) FROM users;
